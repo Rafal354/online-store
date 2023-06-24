@@ -1,6 +1,6 @@
 package com.shop.user.model;
 
-public enum UserType {
+public enum Role {
     USER,
     ADMIN
 }
